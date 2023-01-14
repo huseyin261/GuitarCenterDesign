@@ -1,0 +1,15 @@
+
+/* Class = "UILabel"; text = "66.000₺"; ObjectID = "9SY-oS-Qsy"; */
+"9SY-oS-Qsy.text" = "66.000₺";
+
+/* Class = "UILabel"; text = "GIBSON LP Standard 2014 Heritage Cherry"; ObjectID = "J6y-14-4vg"; */
+"J6y-14-4vg.text" = "GIBSON LP Standard 2014 Heritage Cherry";
+
+/* Class = "UIButton"; configuration.title = "ADD TO CHART"; ObjectID = "ahQ-Ss-1AP"; */
+"ahQ-Ss-1AP.configuration.title" = "SEPETE EKLE";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "ahQ-Ss-1AP"; */
+"ahQ-Ss-1AP.normalTitle" = "Button";
+
+/* Class = "UILabel"; text = "The keyboard is maple, the back and sides are mahogany.A high gloss Les Paul guitar!"; ObjectID = "yEX-FB-wb9"; */
+"yEX-FB-wb9.text" = "Klavye akçaağaç, arka ve yanlar maun. Parlak bir Les Paul gitar!";
